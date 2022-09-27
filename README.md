@@ -6,9 +6,9 @@ Biconomy also provides the user limit check, so I implemented that.
 Here it checks the user limit, and if it's over, it will get directed to the normal transaction.
 Three steps to achieve the gasless transactions:
 
-Making Your Contract Meta Transaction Compliant
-Registering Artifacts On The Dashboard
-Integrate SDK Or Use API
+* Making Your Contract Meta Transaction Compliant
+* Registering Artifacts On The Dashboard
+* Integrate SDK Or Use API
 
 ### Checked Limits via api https://api.biconomy.io/api/v1/dapp/checkLimits?userAddress=<user_address>&apiId=<api_id>
 
