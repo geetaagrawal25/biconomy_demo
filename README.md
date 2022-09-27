@@ -1,6 +1,9 @@
-#Biconomy Integration to mint gasless NFT
+# Biconomy Integration to mint gasless NFT
 
-This project allows to mint NFT all gasless , so it resolves the burden for those who wants to mint nft but no funds in their wallet.
+This project allows to mint NFT all gasless, so it resolves the burden for those who want to mint nft but has no funds in their wallet.
+Biconomy also provides the user limit check, so I implemented that.
+
+Here it checks the user limit, and if it's over, it will get directed to the normal transaction.
 
 # Getting Started with Create React App
 
