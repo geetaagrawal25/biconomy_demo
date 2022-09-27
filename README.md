@@ -10,7 +10,9 @@ Three steps to achieve the gasless transactions:
 * Registering Artifacts On The Dashboard
 * Integrate SDK Or Use API
 
-### Checked Limits via api https://api.biconomy.io/api/v1/dapp/checkLimits?userAddress=<user_address>&apiId=<api_id>
+### Limits check via api
+
+ https://api.biconomy.io/api/v1/dapp/checkLimits?userAddress=<user_address>&apiId=<api_id>
 
 # Getting Started with Create React App
 
